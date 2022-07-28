@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MaxCharts/static/css/main.c33ace77.css",
+    "main.js": "/MaxCharts/static/js/main.0c4341ad.js",
+    "static/js/787.79edeb64.chunk.js": "/MaxCharts/static/js/787.79edeb64.chunk.js",
+    "static/media/radar.png": "/MaxCharts/static/media/radar.08958502b850f216149a.png",
+    "static/media/doughnut.png": "/MaxCharts/static/media/doughnut.9d2fffa4a74d1d048eeb.png",
+    "static/media/line.png": "/MaxCharts/static/media/line.837a52b38df8173f12fb.png",
+    "static/media/email.png": "/MaxCharts/static/media/email.7309702e5b59d62cab86.png",
+    "static/media/pie.png": "/MaxCharts/static/media/pie.4f351087ffc3eed11d46.png",
+    "static/media/logo.png": "/MaxCharts/static/media/logo.7ae60715988acbc9ad91.png",
+    "static/media/cross.svg": "/MaxCharts/static/media/cross.779f8c6abcd4c5134127.svg",
+    "index.html": "/MaxCharts/index.html",
+    "main.c33ace77.css.map": "/MaxCharts/static/css/main.c33ace77.css.map",
+    "main.0c4341ad.js.map": "/MaxCharts/static/js/main.0c4341ad.js.map",
+    "787.79edeb64.chunk.js.map": "/MaxCharts/static/js/787.79edeb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c33ace77.css",
+    "static/js/main.0c4341ad.js"
+  ]
+}
