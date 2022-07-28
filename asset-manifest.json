@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MaxCharts/static/css/main.e7174367.css",
+    "main.css": "/MaxCharts/static/css/main.a28bf7b5.css",
     "main.js": "/MaxCharts/static/js/main.655b18ef.js",
     "static/js/787.79edeb64.chunk.js": "/MaxCharts/static/js/787.79edeb64.chunk.js",
     "static/media/radar.png": "/MaxCharts/static/media/radar.08958502b850f216149a.png",
@@ -11,12 +11,12 @@
     "static/media/logo.png": "/MaxCharts/static/media/logo.7ae60715988acbc9ad91.png",
     "static/media/cross.svg": "/MaxCharts/static/media/cross.779f8c6abcd4c5134127.svg",
     "index.html": "/MaxCharts/index.html",
-    "main.e7174367.css.map": "/MaxCharts/static/css/main.e7174367.css.map",
+    "main.a28bf7b5.css.map": "/MaxCharts/static/css/main.a28bf7b5.css.map",
     "main.655b18ef.js.map": "/MaxCharts/static/js/main.655b18ef.js.map",
     "787.79edeb64.chunk.js.map": "/MaxCharts/static/js/787.79edeb64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7174367.css",
+    "static/css/main.a28bf7b5.css",
     "static/js/main.655b18ef.js"
   ]
 }
